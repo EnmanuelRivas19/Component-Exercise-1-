@@ -1,3 +1,6 @@
-table
-{border-style: solid;
-border: 50px;}
+table, th, td 
+{border: 1px solid black; }
+
+.center {
+    margin:auto; margin-top: 20%;
+}
