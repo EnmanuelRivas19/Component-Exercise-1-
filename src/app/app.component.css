@@ -1,0 +1,21 @@
+
+div h1 {text-align: center;}
+
+/*un diseño para que no se vea tan feo*/
+.design {
+    height: 55px;
+    background-color: #403e3e;
+    position: sticky;
+    top: 50;
+    width: 100%; 
+
+  }
+  nav h1 {color: white;
+  font-size: 16px;
+  transition: 0.5s;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 20px;
+  }
+nav h1:hover {  color:rgb(184,184,184);
+}

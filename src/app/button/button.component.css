@@ -1,0 +1,4 @@
+.blackred {background-color:white ;
+color: black; transition-duration: 0.5;}
+
+.blackred:hover {background-color: black; color:crimson;}
