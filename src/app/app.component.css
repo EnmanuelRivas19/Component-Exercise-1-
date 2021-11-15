@@ -1,5 +1,6 @@
 
-div h1 {text-align: center;}
+div h1 {text-align: center;
+}
 
 /*un diseño para que no se vea tan feo*/
 .design {
@@ -12,10 +13,12 @@ div h1 {text-align: center;}
   }
   nav h1 {color: white;
   font-size: 16px;
-  transition: 0.5s;
   text-align: center;
   font-family: sans-serif;
   padding-top: 20px;
-  }
+text-shadow: 1px 2px 2px  crimson;  }
 nav h1:hover {  color:rgb(184,184,184);
+    transition: 0.5s;
+
 }
+

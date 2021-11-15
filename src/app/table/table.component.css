@@ -1,5 +1,5 @@
 table, th, td
-{border: 1px solid black; height: 75px; width: 100px;}
+{border: 1px solid black; height: auto; width: auto;}
 
 .center {
     margin:auto; margin-top: 20%;
