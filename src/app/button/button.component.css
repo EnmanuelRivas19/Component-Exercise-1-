@@ -1,4 +1,8 @@
-.blackred {background-color:white ;
-color: black; transition-duration: 0.5;}
 
-.blackred:hover {background-color: black; color:crimson;}
+
+/*al final no se uso esto por bootstrap*/
+.blackred {background-color:white ;
+color: black; transition-duration: 0.5s;
+cursor: pointer;}
+
+.blackred:hover {background-color: #a67b5c; color:black;}
